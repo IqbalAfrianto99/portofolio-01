@@ -1,6 +1,7 @@
 {
   "name": "portofolio",
   "version": "0.1.0",
+  "packageManager": "yarn@4.5.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
